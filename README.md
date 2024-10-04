@@ -1,2 +1,3 @@
 # Leetcode
-This repository will be helpful for Leetcode Data Structures question.
+This repository contains the solution of questions from Leetcode on Data Structures and Algorithms
+
